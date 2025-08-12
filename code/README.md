@@ -1,4 +1,4 @@
-# 3D Drone Planner — Code Overview
+# 3D Drone Planner
 This folder contains the A* planner, map I/O helpers, and small runners used in the analyses.
 
 # Key Modules / Functions

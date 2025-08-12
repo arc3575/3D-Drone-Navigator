@@ -1,0 +1,18 @@
+{
+    "num_floors": 2,
+    "floor_size": [
+        20,
+        13
+    ],
+    "start": [
+        0,
+        2,
+        1
+    ],
+    "goal": [
+        1,
+        15,
+        2
+    ],
+    "max_battery": 20
+}
